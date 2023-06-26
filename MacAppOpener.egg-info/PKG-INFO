@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: MacAppOpener
-Version: 0.0.1
+Version: 0.0.4
 Summary: A simple python module that offers a MacOS alternative to the AppOpener module.
 Home-page: 
 Author: Ryann Elguessab
@@ -14,10 +14,23 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
 License-File: LICENCE.txt
 
-A simple python module that offers a MacOS alternative to the AppOpener module using the os module and difflib providing an easy way to open applications on MacOS using python.
+Project Description
+ A simple python module that offers a MacOS alternative to the AppOpener module using the os module and difflib providing an easy way to open and close applications on MacOS using python. The module will search within the applications for the closeset module giving programmers a little leeway. 
+ 
+Examples:
+
+open("brave") #opens Brave Browser
+
+close("discord") #closes Discord application
+	 
 
 Change Log
 ==========
+
+0.0.4 (06/26/2023)
+-------------------
+- Cleaning up files and addding close function
+
 
 0.0.1 (06/25/2023)
 -------------------

@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='MacAppOpener',
-  version='0.0.1',
+  version='0.0.4',
   description='A simple python module that offers a MacOS alternative to the AppOpener module.',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
