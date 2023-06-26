@@ -1,0 +1,1 @@
+A simple python module that offers a MacOS alternative to the AppOpener module using the os module and difflib providing an easy way to open applications on MacOS using python.

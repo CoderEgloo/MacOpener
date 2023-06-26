@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+AppOpener/__init__.py
+MacAppOpener.egg-info/PKG-INFO
+MacAppOpener.egg-info/SOURCES.txt
+MacAppOpener.egg-info/dependency_links.txt
+MacAppOpener.egg-info/top_level.txt
